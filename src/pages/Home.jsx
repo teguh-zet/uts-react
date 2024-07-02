@@ -3,7 +3,7 @@
 const Home = () => {
   return (
     <div className="text-center">
-      <h1 className="text-4xl font-bold my-6">Selamat Datang di MovieApp</h1>
+      <h1 className="text-4xl font-bold my-6">Selamat Datang di TeazCinema</h1>
       <p className="text-lg">
         Di sini Anda dapat menemukan berbagai macam film dan informasi tentangnya.
       </p>
